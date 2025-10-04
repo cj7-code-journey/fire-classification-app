@@ -1,0 +1,12 @@
+[general]
+magicEnabled = false
+
+[server]
+runOnSave = false
+
+[client]
+showErrorDetails = true
+
+[runner]
+# Force Streamlit to use the version used for model training (Python 3.12)
+python_version = "3.12"
